@@ -1,0 +1,27 @@
+
+img {
+    width: 450px;
+    height: 200px;
+}
+
+p {
+  font-family: Georgia, serif;
+  font-size: 20px;
+}
+p {
+    text-align: right;
+  }
+
+
+h1 {
+    text-align: center;
+  }
+
+ 
+     h2
+    { 
+        text-decoration : underline
+     }
+    h2 {
+        font-size: 20px;
+      }
